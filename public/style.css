@@ -1,0 +1,10 @@
+#matches-played-per-year, #matches-won-per-team, #extra-Runs, #economical-bowler, #most-man-of-match {
+    margin-top:40px ;
+    margin-bottom:40px;
+    color: #E8E8E8;
+    min-width: 310px;
+     height: 450px;
+     border-radius: 15px 50px; 
+      border-style:dashed;
+      border-color: yellow;
+} 
